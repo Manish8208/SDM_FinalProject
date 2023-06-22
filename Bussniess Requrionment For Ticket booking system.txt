@@ -1,0 +1,34 @@
+Bussniess Requirement For Ticket booking system
+Author:Manish Samant
+Stakeholders:
+	  visitor,
+	  customer,
+	  Admin
+	  BOD
+
+Document generated with the help of  series of meetings  held 
+between stake holders, Domain Experts, Business Analysts
+First Draft : 21/06/2023
+Revised Draft: 21/06/2023
+
+Explain about ticket booking system this app is only for booking app.
+
+1:Regestration Page: Regestration Page is for new customer who want to book there ticket through our app and while they doing regestration we can give all information of that user.
+
+2.Login: Login is for already regestried user whose data is saved in our database so user cannot need to register every time.
+
+3.Reservation: The booking system should handle booking process securely without any failed.
+
+4.Payment: Payment portal support for different payment method like credit card,online wallet etc.
+
+5.Seating Management: In seating management system should be provide seating map layout for user to choose seats.
+
+6.Regarding booking modification: User should be able to modify their booking as per their requirement.
+
+7.Booking cancellation: Allow user to cancel their booked ticket as per rules and regulation.
+
+8.Ticket Delivery: After completion of payment process send autogenerate email and SMS notification to customer.
+
+9.Customer support: Offer a support system to handle customer inquiries,issues and ticket related queries.
+
+10. FAQ: Frequently asked question should be maintained under FAQ section.
