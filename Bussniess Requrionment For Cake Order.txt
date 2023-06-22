@@ -1,0 +1,43 @@
+Bussniess Requrionment For Cake Order App
+Author:Manish Samant
+Stakeholders:
+	  visitor,
+	  existing customer,
+	  Sales representative,
+	  Sellers(Merchant)
+	  Vendors ( cake shops)
+	 BOD
+
+Document generated with the help of  series of meetings  held 
+between stake holders, Domain Experts, Business Analysts
+First Draft : 21/06/2023
+Revised Draft: 21/06/2023
+
+Explain about cake Order app this app is only for ordering app.
+
+1:Regestration Page: Resgestration Page is for new customer who want to order there cake through our app and while they doing regestration we can give all information of that user.
+
+2.Login: Login is for already regestried user whose data is saved in our database so user cannot need to regestier every time.
+
+3.CRM:In CRM all information related customer that is stored in that particular CRM like (adress,name etc.)
+
+4.order by shops:order by shops is for when user want to order that cake from a particular shop who is near by that user.
+
+5.Add to cart:Cart can help when user order multiple cake so user can see that cakes is add in thier cart or not so searching complexity of user decreased.
+
+6.Search : (i) Search menu is for that when user want to see all shops near by them so user type their pincode and get all cake shops near them.
+	   (ii) In search menu there is another options search by cake name so that cake is available on which shops user can easily get.
+
+7.Memberships:Memberships is for that customers who is prime members of our app so we can give them offers.
+
+8.Vendor Managemet:In vendor managemet information of all shops who are regestier on our app so we can show only those shops and cakes to user.
+
+9.Order processing:Order Processing is for that when user order cake at that time user enter there adress which where they want to get delivery of that cake.
+
+10.shipping: In shipping we can provide status/location of thier cake so user can track thier ordered cake location.
+
+11.Payments: Paymet is for Accept the payment from user and then we confirm that user want that cake and in payment user also get offers when offer is available
+
+
+
+
